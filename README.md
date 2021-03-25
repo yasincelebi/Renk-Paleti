@@ -1,3 +1,3 @@
-# Renk-Paleti
+# Random Hex Color
 
-### Butona tıklayınca rastgele renk üretir. 
+
